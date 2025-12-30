@@ -7,7 +7,7 @@ Este proyecto aplica conceptos de la Física de Sistemas Complejos y la Ciencia 
 ## Conceptos Físicos y Matemáticos Aplicados
 Para este análisis, se implementaron las siguientes métricas de red:
 
-Distribución de Grado (Degree Distribution): Análisis de la conectividad para determinar si la red sigue una ley de potencia (redes de escala libre) o una distribución aleatoria.
+Distribución de Grado (Degree Distribution): Análisis de la conectividad para determinar si la red sigue una ley de potencia (redes de escala libre) u otra tendencia.
 
 Coeficiente de Clustering (Clustering Coefficient): Medición del grado en que los nodos (atletas) tienden a agruparse, revelando la formación de núcleos de alto rendimiento o comunidades locales.
 
