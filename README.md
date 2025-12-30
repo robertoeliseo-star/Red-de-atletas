@@ -1,6 +1,6 @@
 # Redes-atletas
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto aplica conceptos de la Física de Sistemas Complejos y la Ciencia de Redes para analizar las interacciones y métricas de desempeño en una red de atletas. El objetivo principal es identificar patrones de comportamiento, jerarquías y estructuras comunitarias que no son evidentes mediante análisis estadísticos tradicionales.
 
